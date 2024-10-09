@@ -14,4 +14,4 @@ My terminal & (n)vim color schemes, and thoughts on them.
 
 
 # Terminal
-![Scheme](screenshots/xresources_scheme.png "Terminal color scheme")
+![Scheme](screenshots/terminal_scheme.png "Terminal color scheme")

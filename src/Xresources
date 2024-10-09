@@ -5,7 +5,7 @@
 
 ! black
 *.color0:       #282828
-*.color8:       #303030
+*.color8:       #282828
 
 ! red
 *.color1:       #783953
@@ -16,21 +16,21 @@
 *.color10:      #5f8787
 
 ! yellow
-*.color3:       #967c68
-*.color11:      #967c68
+*.color3:       #536878
+*.color11:      #536878
 
 ! blue
-*.color4:       #536878
-*.color12:      #536878
+*.color4:       #708090
+*.color12:      #708090
 
 ! magenta
-*.color5:       #708090
-*.color13:      #708090
+*.color5:       #707070
+*.color13:      #707070
 
 ! cyan
-*.color6:       #707070
-*.color14:      #707070
+*.color6:       #b5b5b5
+*.color14:      #b5b5b5
 
 ! white
-*.color7:       #cfcfcf
+*.color7:       #ffffff
 *.color15:      #ffffff
